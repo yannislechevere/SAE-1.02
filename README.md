@@ -44,7 +44,7 @@ Le projet est structuré en **quatre versions**, chacune introduisant de nouvell
 
 ---
 
-> ### 🔹 Version 4 – Deux serpents compétitifs
+> ### Version 4 – Deux serpents compétitifs
 > <details> <summary>Détails</summary>
 >
 >> - Deux serpents se déplacent automatiquement et **compétitionnent** pour manger les pommes.
