@@ -55,3 +55,10 @@ Le projet est structuré en **quatre versions**, chacune introduisant de nouvell
 >
 > </details>
 
+---
+
+# ✍️ Auteur
+
+LE CHEVERE Yannis
+
+
