@@ -59,6 +59,6 @@ Le projet est structuré en **quatre versions**, chacune introduisant de nouvell
 
 # Auteur
 
-Projet réalisé en binôme :
+Projet réalisé en binôme :  
 **CHAUVEL Arthur** & **LE CHEVERE Yannis**
 
