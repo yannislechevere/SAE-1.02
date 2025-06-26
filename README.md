@@ -57,8 +57,8 @@ Le projet est structuré en **quatre versions**, chacune introduisant de nouvell
 
 ---
 
-# ✍️ Auteur
+# Auteur
 
-LE CHEVERE Yannis
-
+Projet réalisé en binôme :
+**CHAUVEL Arthur** & **LE CHEVERE Yannis**
 
