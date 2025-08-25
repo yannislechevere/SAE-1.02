@@ -14,7 +14,7 @@ Le projet est structuré en **quatre versions**, chacune introduisant de nouvell
 >> - Le serpent évolue dans un plateau délimité par des **bordures fixes**.
 >> - Il se déplace automatiquement vers les pommes sans interaction clavier.
 >>
->> 🔗 [Voir le code - Version 1](https://github.com/yannislechevere/SAE-1.02/tree/master/Version1)
+>> 📂 [Voir le code - Version 1](https://github.com/yannislechevere/SAE-1.02/tree/master/Version1)
 >
 > </details>
 
@@ -26,7 +26,7 @@ Le projet est structuré en **quatre versions**, chacune introduisant de nouvell
 >> - Ajout de **trous dans les bordures** permettant au serpent de **se téléporter** de l'autre côté du plateau.
 >> - Optimisation du chemin prise en compte avec la nouvelle mécanique de téléportation.
 >>
->> 🔗 [Voir le code - Version 2](https://github.com/yannislechevere/SAE-1.02/tree/master/Version2)
+>> 📂 [Voir le code - Version 2](https://github.com/yannislechevere/SAE-1.02/tree/master/Version2)
 >
 > </details>
 
@@ -38,7 +38,7 @@ Le projet est structuré en **quatre versions**, chacune introduisant de nouvell
 >> - Introduction de **pavés**, agissant comme des **obstacles fixes** que le serpent doit éviter.
 >> - L'algorithme de déplacement automatique prend en compte ces nouvelles contraintes.
 >>
->> 🔗 [Voir le code - Version 3](https://github.com/yannislechevere/SAE-1.02/tree/master/Version3)
+>> 📂 [Voir le code - Version 3](https://github.com/yannislechevere/SAE-1.02/tree/master/Version3)
 >
 > </details>
 
@@ -51,7 +51,7 @@ Le projet est structuré en **quatre versions**, chacune introduisant de nouvell
 >> - Chaque serpent suit son propre algorithme d'optimisation pour atteindre les pommes le plus rapidement possible.
 >> - Le score final détermine le gagnant.
 >>
->> 🔗 [Voir le code - Version 4](https://github.com/yannislechevere/SAE-1.02/tree/master/Version4)
+>> 📂 [Voir le code - Version 4](https://github.com/yannislechevere/SAE-1.02/tree/master/Version4)
 >
 > </details>
 
